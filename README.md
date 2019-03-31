@@ -16,24 +16,24 @@
 
 # 2. Месяц
 ### Data Science: введение
-* [Univercity of Michigan. Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
+* [Univercity of Michigan/Coursera. Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 или 
-* [DataCamp Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
+* [DataCamp. Introduction to Data Science in Python](https://www.datacamp.com/courses/introduction-to-data-science-in-python)
 
 ### Machine Learning/Deep Learning: введение
-* [Coursera. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
+* [deeplearning.ai/Coursera. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow)
 
 ### Kaggle Project #1
-* [Kaggle.Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
+* [Kaggle. Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic)
 
 # 3. Месяц
 ### Data Science: дополняем скилы
-* [KaggleLearn Pandas](https://www.kaggle.com/learn/pandas)
-* [Excel for Data Science](https://www.excel-easy.com/)
-* [SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
+* [KaggleLearn. Pandas](https://www.kaggle.com/learn/pandas)
+* [ExcelEasy. Excel for Data Science](https://www.excel-easy.com/)
+* [DateCamp. SQL for Data Science](https://www.datacamp.com/courses/intro-to-sql-for-data-science)
 
 ### Data Science: средний уровень
-* [Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+* [DataCamp. Intermediate Python for Data Science](https://www.datacamp.com/courses/intermediate-python-for-data-science)
 
 ### Kaggle Project #2
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
