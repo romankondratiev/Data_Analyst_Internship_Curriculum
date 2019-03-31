@@ -38,7 +38,7 @@
 ### Kaggle Project #2
 * [Kaggle Competitions](https://www.kaggle.com/competitions)
 
-### Составление резюме :muscle:
+### Составляем резюме :muscle:
 * [DataQuest. How to Write a Great Data Science Resume](https://www.dataquest.io/blog/how-data-science-resume-cv/)
 * [Indeed. Data Scientist Resumes](https://www.indeed.com/career-advice/resume-samples/information-technology-resumes/data-scientist)
 ---
