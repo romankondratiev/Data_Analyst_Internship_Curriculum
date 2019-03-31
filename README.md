@@ -1,23 +1,23 @@
 # Получить стажеровку Data Analyst за 3 месяца 
-## Подробный план и список рессурсов 
-## Видео можно найти [здесь]()
+### Подробный план и список рессурсов 
+### Видео можно найти [здесь]()
 ---
-# 1. месяц
+# 1. Месяц
 ---
-## Python для Data Science/Analytics
-## Data Sciene with R, Excel
-## English 
+### Python для Data Science/Analytics
+### Data Sciene with R, Excel
+### English 
 ---
-# 2. месяц
+# 2. Месяц
 ---
-## Advanced Data Science
-## Kaggle Project #1
-## English 
+### Advanced Data Science
+### Kaggle Project #1
+### English 
 ---
-# 3. месяц
-## Kaggle Project #2
-## Machine Learning 
-## English 
-## Составление резюме 
+# 3. Месяц
+### Kaggle Project #2
+### Machine Learning 
+### English 
+### Составление резюме 
 ---
 
